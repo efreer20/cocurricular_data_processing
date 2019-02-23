@@ -41,3 +41,4 @@ fall2017 = c(
 #Spring 2018: Monday 1/8 to Friday 5/4
 ##### NOTE - this is where I might need to change it depending on when my measure came from - when is the persistence measure taken?
 spring2018 = semesterDateFinder(1, 5, 1:7, 5:31, 2018)
+
