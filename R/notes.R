@@ -4,10 +4,10 @@
     #GENERAL TEMPLATE:
         #usethis::use_r("file_name")
 
-usethis::use_r("test")
+# usethis::use_r("test")
 
 ###### IN TERMINAL FOR GIT
-The sequence is four steps
+# The sequence is four steps
 
       #
       # STEP 1
@@ -35,4 +35,4 @@ The sequence is four steps
 
 #STEP 4
 #git remote -v
-  says - what remote folder are you looking at, git repository?
+  # says - what remote folder are you looking at, git repository?
