@@ -1,0 +1,16 @@
+Package: mypackage
+Title: Semester Date Transformer
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emily",
+           family = "Bovee",
+           role = c("aut", "cre"),
+           email = "ebovee@msu.edu")
+Description: This package takes raw date data and transforms it into semester variables.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    glue,
+    assertthat
